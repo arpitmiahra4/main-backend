@@ -22,5 +22,5 @@ app.listen(PORT, async () => {
   } catch (err) {
     console.log(err);
   }
-  console.log("Server Listening at http://localhost:8080");
+  console.log("Server Listening at 8080");
 });
